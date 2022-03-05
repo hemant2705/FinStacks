@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902034836643",
+    "project_id": "finstacks",
+    "storage_bucket": "finstacks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902034836643:android:deb2bbcd68234d43cac316",
+        "android_client_info": {
+          "package_name": "com.edgetechs.finstacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902034836643-a7rmevbclr4cjk8h2jrtv5ihq2o7becr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edgetechs.finstacks",
+            "certificate_hash": "b238bd732066add8a4e1f2a547c48a66d77a7341"
+          }
+        },
+        {
+          "client_id": "902034836643-57eanaq3csg8b0jrgu5503t3lhgktnal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvIW-C3pqiRot29nA3bezOgNFQhlLuTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902034836643-57eanaq3csg8b0jrgu5503t3lhgktnal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
